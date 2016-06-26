@@ -4,7 +4,7 @@ Hello world
 
 main()
 {
-	int a;;
+	int a=98;
 	int b;;
 	int c=58;
 	
