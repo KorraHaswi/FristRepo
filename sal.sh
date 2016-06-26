@@ -6,7 +6,7 @@ main()
 {
 	int a;;
 	int b;;
-	int c=10;
+	int c=58;
 	
 	int sum;
 	sum=a+b+c;
