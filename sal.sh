@@ -4,11 +4,11 @@ Hello world
 
 main()
 {
-	int a=98;
+	int a=178;
 	int b;;
 	int c=58;
 	
 	int sum;
 	sum=a+b+c;
-	printf("result is sum");
+	printf("result is Mul");
 }

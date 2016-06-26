@@ -1,5 +1,5 @@
-int a=11;
-int b=90;
+int a=23;
+int b=29;
 for()
 {
 	mul=a*b;
