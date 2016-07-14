@@ -4,4 +4,5 @@ for()
 {
 	mul=a*b;
 line inserted here
+one more line added 
 }
